@@ -1,0 +1,55 @@
+{
+
+  "SalesMan": [{
+    "Name": "Jones",
+    "City": "Boston",
+    "Age": "34"
+  },
+    {
+      "Name": "Kivell",
+      "City": "NewYork",
+      "Age": "23"
+    },
+    {
+      "Name": "Jardine",
+      "City": "London",
+      "Age": "54"
+    },
+    {
+      "Name": "Gill",
+      "City": "London",
+      "Age": "23"
+    },
+    {
+      "Name": "Sorvino",
+      "City": "NewYork",
+      "Age": "41"
+    },
+    {
+      "Name": "Andrews",
+      "City": "Boston",
+      "Age": "27"
+    },
+    {
+      "Name": "Thompson",
+      "City": "London",
+      "Age": "32"
+    },
+    {
+      "Name": "Howard",
+      "City": "NewYork",
+      "Age": "22"
+    },
+    {
+      "Name": "Parent",
+      "City": "Boston",
+      "Age": "31"
+    },
+    {
+      "Name": "Smith",
+      "City": "London",
+      "Age": "40"
+    }
+
+  ]
+}
